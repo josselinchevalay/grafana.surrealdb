@@ -480,7 +480,7 @@
     {
       "datasource": {
         "type": "fiskaly-surrealdb-datasource",
-        "uid": "ddyy6evv2spvka"
+        "uid": "fiskaly-surrealdb-datasource"
       },
       "description": "use LET statement of surreal to search into body ",
       "fieldConfig": {
@@ -536,7 +536,7 @@
         {
           "datasource": {
             "type": "fiskaly-surrealdb-datasource",
-            "uid": "ddyy6evv2spvka"
+            "uid": "fiskaly-surrealdb-datasource"
           },
           "group": false,
           "mode": "raw",

@@ -90,6 +90,7 @@
         }
       ],
       "title": "Database Information",
+      "transformations": [],
       "type": "table"
     },
     {

@@ -18,7 +18,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "id": 15,
+  "id": 2,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -73,10 +73,10 @@
           ],
           "show": false
         },
-        "frameIndex": 1,
+        "frameIndex": 0,
         "showHeader": true
       },
-      "pluginVersion": "11.1.3",
+      "pluginVersion": "10.2.0",
       "targets": [
         {
           "datasource": {
@@ -151,7 +151,7 @@
           }
         ]
       },
-      "pluginVersion": "11.1.3",
+      "pluginVersion": "10.2.0",
       "targets": [
         {
           "datasource": {
@@ -556,14 +556,14 @@
     }
   ],
   "refresh": "",
-  "schemaVersion": 39,
+  "schemaVersion": 38,
   "tags": [],
   "templating": {
     "list": [
       {
         "allValue": "",
         "current": {
-          "selected": true,
+          "selected": false,
           "text": [
             "All"
           ],
@@ -593,13 +593,13 @@
     ]
   },
   "time": {
-    "from": "now-6h",
+    "from": "now-2m",
     "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Timeseries",
   "uid": "1",
-  "version": 4,
+  "version": 1,
   "weekStart": ""
 }
